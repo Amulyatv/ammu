@@ -1,5 +1,0 @@
-print("hello")
-print("hiii")
-print("cse")
-print("ise")
-print("prathu")
